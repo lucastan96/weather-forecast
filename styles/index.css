@@ -1,0 +1,64 @@
+body {
+    background: #454d54;
+}
+
+h1 {
+    display: none;
+}
+
+nav {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+form {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+form i {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+input {
+    height: 50px;
+}
+
+#place {
+    margin-top: 30px;
+}
+
+.temp-current-hour, .temp-daily {
+    margin-bottom: 40px;
+}
+
+.temp-current {
+    margin: 0 auto;
+}
+
+#i-current {
+    width: 128px;
+    margin-top: 30px;
+}
+
+.list-group-item {
+    vertical-align: middle;
+    padding-bottom: 5px;
+}
+
+.card-main {
+    position: relative;
+}
+
+.card-main h3, .card-main p {
+    display: inline-block;
+}
+
+.temp-hour .i-weather {
+
+}
